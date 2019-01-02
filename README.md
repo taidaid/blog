@@ -1,3 +1,9 @@
+This project should be a basic React App for creating a blog.
+
+Initial scope:
+-create html file on your computer
+-save changes to blog in local html file
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
